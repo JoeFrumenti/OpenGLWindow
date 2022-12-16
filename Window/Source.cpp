@@ -23,7 +23,7 @@ int main()
 
 	//std::cout << "test";
 	//glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
-	GLFWwindow* window = glfwCreateWindow(800, 600, "Caleb is a stinky", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(800, 600, "Window created!", NULL, NULL);
 	if (window == NULL)
 	{
 		std::cout << "Failed to create GLFW window" << std::endl;

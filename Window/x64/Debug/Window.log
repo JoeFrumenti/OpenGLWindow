@@ -1,2 +1,3 @@
-﻿  Source.cpp
-  Window.vcxproj -> D:\Joe\GameDev\Graphics Programming\Projects\Window\x64\Debug\Window.exe
+﻿  glad.c
+  Source.cpp
+  Window.vcxproj -> D:\Joe\GameDev\Git\OpenGLWindow\x64\Debug\Window.exe
